@@ -127,7 +127,7 @@ Wszystko to jednak wciąż wydawało mi się skomplikowane, a ilość kroków po
 <p><code>cd Documents</code></p>
 <p>Kiedy już jesteś w odpowiednim folderze wpisujesz w terminal</p>
 <p><code>hugo new site ksp</code> gdzie <code>ksp</code> to nazwa robocza mojej strony. Po wykonaniu tego polecenia, terminal podaje nam kilka ważnych wskazówek.</p>
-<p><img src="/img/term-1.png" alt="term-1"></p>
+<p><img src="/uproszczenia/img/term-1.png" alt="term-1"></p>
 <h3 id="wybierz-motyw">Wybierz motyw</h3>
 <p>Hugo utworzył folder pod nazwą <code>ksp</code>, w którym znajduje się moja strona. Teraz trzeba zainstalować jakiś motyw dla strony. W tym celu trzeba ściągnąć odpowiedni plik z odpowiedniej <a href="https://themes.gohugo.io/">strony</a>. Można to oczywiście zrobić przez terminal, jednak ja wybrałem bardziej zrozumiałą dla większości opcję. Pobrałem motyw <a href="https://github.com/zwbetz-gh/cupper-hugo-theme">cupper-hugo-theme</a> na dysk w formie archiwum. Rozpakowałem go, a zawartość folderu przemieściłem do folderu w moim projekcie.</p>
 <p><code>/ksp/themes/</code></p>
@@ -219,14 +219,14 @@ markup:
 <p>Teraz pora na uruchomienie strony na lokalnym serwerze działającym na Twoim komputerze. W tym celu w terminalu przejdź do folderu Twojego projektu, w moim przypadku będzie to <code>ksp</code> i wpisz komendę</p>
 <p><code>hugo serve</code></p>
 <p>Otrzymujemy następujący komunikat:</p>
-<p><img src="/img/term-2.png" alt="term-2"></p>
+<p><img src="/uproszczenia/img/term-2.png" alt="term-2"></p>
 <p>Oznacza to, że strona została uruchomiona i działa w przeglądarce pod adresem http://localhost:1313/</p>
 <p>Teraz możesz dowolnie zmieniać treść swojej strony oraz  postów lub dodawać nowe. Znajdują się one w folderze <code>/ksp/content/</code>. Więcej informacji na temat automatycznego dodawania plików <code>.md</code> z prawidłowo utworzonym  nagłówkiem <code>.yaml</code> znajdziesz w dokumentacji Hugo.</p>
 <p>Pora na umieszczenie strony na jakimś zewnętrznym serwerze. Dalej będę odwoływał się do już działającego projektu, jakim jest ta strona <a href="uproszczenia.pl">uproszczenia.pl</a></p>
 <h2 id="fastio">Fast.io</h2>
 <p>Istnieje naprawdę dużo możliwości pod tym względem. Wspomniany już wcześniej github.com czy inne tego typu strony. Poza tym gotową statyczną stronę można właściwie umieścić na każdym serwerze.</p>
 <p>Ja wybrałem <a href="fast.io">fast.io</a></p>
-<p><img src="/img/web-1.png" alt="web-1"></p>
+<p><img src="/uproszczenia/img/web-1.png" alt="web-1"></p>
 <p>Hosting ten jest unikalny pod wieloma względami:</p>
 <ul>
 <li>wersja bezpłatna pozwala na hostowanie do 10 stron internetowych</li>
@@ -247,9 +247,9 @@ markup:
 <h2 id="podpięcie-własnej-domeny">Podpięcie własnej domeny</h2>
 <p>To okazało się najprostsze. Po zakupieniu domeny na <a href="gnum.pl">gnum.pl</a>, zalogowałem się i zamieniłem DNS, który wcześniej znalazłem w instrukcji fast.io</p>
 <p>Tak wygląda to na gnum.pl</p>
-<p><img src="/img/web-2.png" alt="web-2"></p>
+<p><img src="/uproszczenia/img/web-2.png" alt="web-2"></p>
 <p>A tak wygląda już zarejestrowana domena w fast.io</p>
-<p><img src="/img/web-3.png" alt="web-3"></p>
+<p><img src="/uproszczenia/img/web-3.png" alt="web-3"></p>
 <p>Cały proces zamiany DNS, a co za tym idzie dostęp do poprawnie sformatowanej strony trwał kilka godzin. Na początku strona była dostępna w bardzo podstawowej wersji bez <code>javascript</code> i bez <code>css</code>. Po kilku godzinach w końcu strona działała pod aktualnym adresem. Czasami proces ten jest spowalniany przez naszą przeglądarkę, która zachowuje cash i cookies. W takim przypadku pomaga wyczyszczenie przeglądarki i &ldquo;hard reload&rdquo; <code>ctrl-r</code> lub na Macu <code>cmd-r</code>.</p>
 <p>A to dopiero początek przygody&hellip;</p>
 
