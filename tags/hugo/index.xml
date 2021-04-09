@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on Uproszczenia</title>
+    <link>https://uproszczenia.pl/tags/hugo/</link>
+    <description>Recent content in hugo on Uproszczenia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-PL</language>
+    <lastBuildDate>Sun, 19 Apr 2020 10:44:07 +0200</lastBuildDate>
+    
+	<atom:link href="https://uproszczenia.pl/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jak powstała ta strona</title>
+      <link>https://uproszczenia.pl/jak-powstala-strona/</link>
+      <pubDate>Sun, 19 Apr 2020 10:44:07 +0200</pubDate>
+      
+      <guid>https://uproszczenia.pl/jak-powstala-strona/</guid>
+      <description>Dawno, dawno temu, próbowałem swoich sił w tworzeniu stron internetowych. Jednak ze względu na brak czasu, lenistwo i inne ograniczenia, mój zapał zwykle dość szybko gasł. Udało mi się jednak zdobyć przynajmniej podstawową wiedzę na temat budowania stron w sieci. Ukończyłem nawet kurs na Udemy.com dotyczący budowania stron internetowych od zera.
+Wszystko to jednak wciąż wydawało mi się skomplikowane, a ilość kroków potrzebnych do tego, żeby strona działała bez zarzutu była przytłaczająca.</description>
+    </item>
+    
+  </channel>
+</rss>
