@@ -2,21 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Uproszczenia</title>
-    <link>https://uproszczenia.pl/</link>
+    <link>https://pim73.github.io/uproszczenia/</link>
     <description>Recent content on Uproszczenia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-PL</language>
-    <lastBuildDate>Mon, 27 Apr 2020 10:45:46 +0200</lastBuildDate>
-    
-	<atom:link href="https://uproszczenia.pl/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 27 Apr 2020 10:45:46 +0200</lastBuildDate><atom:link href="https://pim73.github.io/uproszczenia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jak nie wpaść w spiralę innowacji?</title>
-      <link>https://uproszczenia.pl/jak-nie-wpasc-w-spirale-innowacji/</link>
+      <link>https://pim73.github.io/uproszczenia/jak-nie-wpasc-w-spirale-innowacji/</link>
       <pubDate>Mon, 27 Apr 2020 10:45:46 +0200</pubDate>
       
-      <guid>https://uproszczenia.pl/jak-nie-wpasc-w-spirale-innowacji/</guid>
+      <guid>https://pim73.github.io/uproszczenia/jak-nie-wpasc-w-spirale-innowacji/</guid>
       <description>Photo by Ludde Lorentz on Unsplash
 W dzisiejszym świecie panuje obsesja dotycząca efektywności. W księgarniach sprzedaje się na ten temat setki książek. Organizowane są kursy. Poza tym, tysiące internautów poszukuje informacji na temat nowych lub lepszych narzędzi, które poprawią ich skuteczność.
 Być może sam szukałeś podobnych informacji i wielokrotnie zmieniałeś używane przez ciebie aplikacje z nadzieją, że tym razem, to będzie sposób na zwiększenie radości z wykonywanej pracy.
@@ -25,10 +21,10 @@ W taki właśnie spoób można wpaść w &amp;ldquo;spiralę innowacji&amp;rdquo
     
     <item>
       <title>Jak zrobić, żeby się nie narobić?</title>
-      <link>https://uproszczenia.pl/jak-zrobic-zeby-sie-nie-narobic/</link>
+      <link>https://pim73.github.io/uproszczenia/jak-zrobic-zeby-sie-nie-narobic/</link>
       <pubDate>Thu, 23 Apr 2020 11:05:45 +0200</pubDate>
       
-      <guid>https://uproszczenia.pl/jak-zrobic-zeby-sie-nie-narobic/</guid>
+      <guid>https://pim73.github.io/uproszczenia/jak-zrobic-zeby-sie-nie-narobic/</guid>
       <description>Po sieci krąży historia i nie wiem, czy jest prawdziwa. Jest jednak bez wątpienia bardzo pouczająca.
 Na początku 20 wieku, znany amerykański przedsiębiorca, Charles Schwab, który w tym czasie był jednym z najbogatszych ludzi na świecie, poszukiwał sposobów na rozwinięcie skuteczności zatrudnionych u niego dyrektorów. O pomoc poprosił konsultanta, którego dzisiaj nazwalibyśmy &amp;ldquo;kosultantem od produktywności&amp;rdquo;. Konsultant ten nazywał się Ivy Lee.
 Lee wysłuchał propozycji Schwaba i poprosił go o spędzenie kilku minut z każdym z jego dyrektorów.</description>
@@ -36,49 +32,58 @@ Lee wysłuchał propozycji Schwaba i poprosił go o spędzenie kilku minut z ka�
     
     <item>
       <title>9 powodów, aby używać Google Keep, jako managera zakładek.</title>
-      <link>https://uproszczenia.pl/google-keep/</link>
+      <link>https://pim73.github.io/uproszczenia/google-keep/</link>
       <pubDate>Mon, 20 Apr 2020 22:15:09 +0200</pubDate>
       
-      <guid>https://uproszczenia.pl/google-keep/</guid>
+      <guid>https://pim73.github.io/uproszczenia/google-keep/</guid>
       <description>Według Forbes z 26 marca 2018 roku, &amp;ldquo;Polacy poświęcają na przeglądanie internetu średnio 2 godziny i 6 minut dziennie. W ciągu roku daje to 766,5 godzin, czyli ponad miesiąc. I to bez przerwy&amp;rdquo;.1 Odbywa się to na komputerze w domu, pracy oraz w różnych miejscach za pomocą urządzeń mobilnych. Często gdzieś w drodze albo przy okazji wykonywania jakiejś pracy przed ekranem monitora, natykamy się na interesujący artykuł. Chcielibyśmy dokładniej się z nim zapoznać, ale nie mamy na to w tej chwili czasu.</description>
     </item>
     
     <item>
       <title>Jak powstała ta strona</title>
-      <link>https://uproszczenia.pl/jak-powstala-strona/</link>
+      <link>https://pim73.github.io/uproszczenia/jak-powstala-strona/</link>
       <pubDate>Sun, 19 Apr 2020 10:44:07 +0200</pubDate>
       
-      <guid>https://uproszczenia.pl/jak-powstala-strona/</guid>
+      <guid>https://pim73.github.io/uproszczenia/jak-powstala-strona/</guid>
       <description>Dawno, dawno temu, próbowałem swoich sił w tworzeniu stron internetowych. Jednak ze względu na brak czasu, lenistwo i inne ograniczenia, mój zapał zwykle dość szybko gasł. Udało mi się jednak zdobyć przynajmniej podstawową wiedzę na temat budowania stron w sieci. Ukończyłem nawet kurs na Udemy.com dotyczący budowania stron internetowych od zera.
 Wszystko to jednak wciąż wydawało mi się skomplikowane, a ilość kroków potrzebnych do tego, żeby strona działała bez zarzutu była przytłaczająca.</description>
     </item>
     
     <item>
       <title>Nosite</title>
-      <link>https://uproszczenia.pl/page/nosite/</link>
+      <link>https://pim73.github.io/uproszczenia/page/nosite/</link>
       <pubDate>Sat, 18 Apr 2020 14:07:32 +0200</pubDate>
       
-      <guid>https://uproszczenia.pl/page/nosite/</guid>
+      <guid>https://pim73.github.io/uproszczenia/page/nosite/</guid>
       <description>Jeszcze tu nic nie ma Zajrzyj tu, proszę, trochę później</description>
     </item>
     
     <item>
       <title>Kontakt</title>
-      <link>https://uproszczenia.pl/page/contact/</link>
+      <link>https://pim73.github.io/uproszczenia/page/contact/</link>
       <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
       
-      <guid>https://uproszczenia.pl/page/contact/</guid>
+      <guid>https://pim73.github.io/uproszczenia/page/contact/</guid>
       <description>Kontakt Aby się ze mną skontaktować, napisz na e-mail: uproszczenia@icloud.com</description>
     </item>
     
     <item>
       <title>O blogu</title>
-      <link>https://uproszczenia.pl/page/about/</link>
+      <link>https://pim73.github.io/uproszczenia/page/about/</link>
       <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
       
-      <guid>https://uproszczenia.pl/page/about/</guid>
+      <guid>https://pim73.github.io/uproszczenia/page/about/</guid>
       <description>O stronie Ta strona powstała po to, abym miał możliwość rozwijania swojego hobby, tzn programowania i tworzenia stron internetowych. Nie jest to jednak strona o programowaniu. Przynajmniej nie tylko o tym.
 Przede wszystkim, chcę zapisywać na niej swoje przemyślenia na temat prowadzenia prostego i sensownego życia. W naszych czasach osiągnięcie takiego celu wcale nie jest oczywiste. Istnieje tyle rzeczy i tyle spraw, które mnie rozpraszają. Dlatego na tej stronie zamierzam dzielić się z innymi moimi własnymi przemyśleniami oraz tym, co znalazłem na ten temat w sieci.</description>
+    </item>
+    
+    <item>
+      <title>My awesome project</title>
+      <link>https://pim73.github.io/uproszczenia/project/my-awesome-project/</link>
+      <pubDate>Tue, 18 Nov 2014 02:13:50 +0000</pubDate>
+      
+      <guid>https://pim73.github.io/uproszczenia/project/my-awesome-project/</guid>
+      <description>About project Aenean ipsum justo, semper eu nisl ut, pretium tincidunt sem. Praesent et diam sit amet lacus lobortis dictum a id lacus. Quisque hendrerit sit amet turpis eu varius. Ut id lorem ac felis ultrices tincidunt. Pellentesque consequat arcu ac fringilla imperdiet. Phasellus pellentesque, sapien non pulvinar blandit, sapien ante aliquet felis, vel porttitor sapien ante in lacus. Fusce non urna aliquet, malesuada nibh vel, luctus urna. Phasellus ut lacus molestie, varius purus quis, malesuada lorem.</description>
     </item>
     
   </channel>

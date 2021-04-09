@@ -1,99 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://uproszczenia.pl/tags/gtd/</loc>
+    <loc>https://pim73.github.io/uproszczenia/tags/gtd/</loc>
     <lastmod>2020-04-27T10:45:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uproszczenia.pl/tags/innowacje/</loc>
+  </url><url>
+    <loc>https://pim73.github.io/uproszczenia/tags/innowacje/</loc>
     <lastmod>2020-04-27T10:45:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uproszczenia.pl/jak-nie-wpasc-w-spirale-innowacji/</loc>
+  </url><url>
+    <loc>https://pim73.github.io/uproszczenia/jak-nie-wpasc-w-spirale-innowacji/</loc>
     <lastmod>2020-04-27T10:45:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uproszczenia.pl/post/</loc>
+  </url><url>
+    <loc>https://pim73.github.io/uproszczenia/post/</loc>
     <lastmod>2020-04-27T10:45:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uproszczenia.pl/tags/</loc>
+  </url><url>
+    <loc>https://pim73.github.io/uproszczenia/tags/</loc>
     <lastmod>2020-04-27T10:45:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uproszczenia.pl/tags/todo/</loc>
+  </url><url>
+    <loc>https://pim73.github.io/uproszczenia/tags/todo/</loc>
     <lastmod>2020-04-27T10:45:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uproszczenia.pl/</loc>
+  </url><url>
+    <loc>https://pim73.github.io/uproszczenia/</loc>
     <lastmod>2020-04-27T10:45:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uproszczenia.pl/tags/aplikacje/</loc>
+  </url><url>
+    <loc>https://pim73.github.io/uproszczenia/tags/aplikacje/</loc>
     <lastmod>2020-04-23T11:05:45+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uproszczenia.pl/jak-zrobic-zeby-sie-nie-narobic/</loc>
+  </url><url>
+    <loc>https://pim73.github.io/uproszczenia/jak-zrobic-zeby-sie-nie-narobic/</loc>
     <lastmod>2020-04-23T11:05:45+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uproszczenia.pl/google-keep/</loc>
+  </url><url>
+    <loc>https://pim73.github.io/uproszczenia/google-keep/</loc>
     <lastmod>2020-04-20T22:15:09+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uproszczenia.pl/tags/komputer/</loc>
+  </url><url>
+    <loc>https://pim73.github.io/uproszczenia/tags/komputer/</loc>
     <lastmod>2020-04-20T22:15:09+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uproszczenia.pl/tags/notatki/</loc>
+  </url><url>
+    <loc>https://pim73.github.io/uproszczenia/tags/notatki/</loc>
     <lastmod>2020-04-20T22:15:09+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uproszczenia.pl/tags/hugo/</loc>
+  </url><url>
+    <loc>https://pim73.github.io/uproszczenia/tags/hugo/</loc>
     <lastmod>2020-04-19T10:44:07+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uproszczenia.pl/jak-powstala-strona/</loc>
+  </url><url>
+    <loc>https://pim73.github.io/uproszczenia/jak-powstala-strona/</loc>
     <lastmod>2020-04-19T10:44:07+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uproszczenia.pl/page/nosite/</loc>
+  </url><url>
+    <loc>https://pim73.github.io/uproszczenia/page/nosite/</loc>
     <lastmod>2020-04-18T14:07:32+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uproszczenia.pl/page/</loc>
+  </url><url>
+    <loc>https://pim73.github.io/uproszczenia/page/</loc>
     <lastmod>2020-04-18T14:07:32+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uproszczenia.pl/page/contact/</loc>
+  </url><url>
+    <loc>https://pim73.github.io/uproszczenia/page/contact/</loc>
     <lastmod>2015-04-03T02:13:50+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uproszczenia.pl/page/about/</loc>
+  </url><url>
+    <loc>https://pim73.github.io/uproszczenia/page/about/</loc>
     <lastmod>2015-04-03T02:13:50+00:00</lastmod>
+  </url><url>
+    <loc>https://pim73.github.io/uproszczenia/project/my-awesome-project/</loc>
+    <lastmod>2014-11-18T02:13:50+00:00</lastmod>
+  </url><url>
+    <loc>https://pim73.github.io/uproszczenia/project/</loc>
+    <lastmod>2014-11-18T02:13:50+00:00</lastmod>
+  </url><url>
+    <loc>https://pim73.github.io/uproszczenia/categories/</loc>
   </url>
-  
-  <url>
-    <loc>https://uproszczenia.pl/categories/</loc>
-  </url>
-  
 </urlset>

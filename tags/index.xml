@@ -2,75 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Uproszczenia</title>
-    <link>https://uproszczenia.pl/tags/</link>
+    <link>https://pim73.github.io/uproszczenia/tags/</link>
     <description>Recent content in Tags on Uproszczenia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-PL</language>
-    <lastBuildDate>Mon, 27 Apr 2020 10:45:46 +0200</lastBuildDate>
-    
-	<atom:link href="https://uproszczenia.pl/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 27 Apr 2020 10:45:46 +0200</lastBuildDate><atom:link href="https://pim73.github.io/uproszczenia/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>gtd</title>
-      <link>https://uproszczenia.pl/tags/gtd/</link>
+      <link>https://pim73.github.io/uproszczenia/tags/gtd/</link>
       <pubDate>Mon, 27 Apr 2020 10:45:46 +0200</pubDate>
       
-      <guid>https://uproszczenia.pl/tags/gtd/</guid>
+      <guid>https://pim73.github.io/uproszczenia/tags/gtd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>innowacje</title>
-      <link>https://uproszczenia.pl/tags/innowacje/</link>
+      <link>https://pim73.github.io/uproszczenia/tags/innowacje/</link>
       <pubDate>Mon, 27 Apr 2020 10:45:46 +0200</pubDate>
       
-      <guid>https://uproszczenia.pl/tags/innowacje/</guid>
+      <guid>https://pim73.github.io/uproszczenia/tags/innowacje/</guid>
       <description></description>
     </item>
     
     <item>
       <title>todo</title>
-      <link>https://uproszczenia.pl/tags/todo/</link>
+      <link>https://pim73.github.io/uproszczenia/tags/todo/</link>
       <pubDate>Mon, 27 Apr 2020 10:45:46 +0200</pubDate>
       
-      <guid>https://uproszczenia.pl/tags/todo/</guid>
+      <guid>https://pim73.github.io/uproszczenia/tags/todo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>aplikacje</title>
-      <link>https://uproszczenia.pl/tags/aplikacje/</link>
+      <link>https://pim73.github.io/uproszczenia/tags/aplikacje/</link>
       <pubDate>Thu, 23 Apr 2020 11:05:45 +0200</pubDate>
       
-      <guid>https://uproszczenia.pl/tags/aplikacje/</guid>
+      <guid>https://pim73.github.io/uproszczenia/tags/aplikacje/</guid>
       <description></description>
     </item>
     
     <item>
       <title>komputer</title>
-      <link>https://uproszczenia.pl/tags/komputer/</link>
+      <link>https://pim73.github.io/uproszczenia/tags/komputer/</link>
       <pubDate>Mon, 20 Apr 2020 22:15:09 +0200</pubDate>
       
-      <guid>https://uproszczenia.pl/tags/komputer/</guid>
+      <guid>https://pim73.github.io/uproszczenia/tags/komputer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>notatki</title>
-      <link>https://uproszczenia.pl/tags/notatki/</link>
+      <link>https://pim73.github.io/uproszczenia/tags/notatki/</link>
       <pubDate>Mon, 20 Apr 2020 22:15:09 +0200</pubDate>
       
-      <guid>https://uproszczenia.pl/tags/notatki/</guid>
+      <guid>https://pim73.github.io/uproszczenia/tags/notatki/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>https://uproszczenia.pl/tags/hugo/</link>
+      <link>https://pim73.github.io/uproszczenia/tags/hugo/</link>
       <pubDate>Sun, 19 Apr 2020 10:44:07 +0200</pubDate>
       
-      <guid>https://uproszczenia.pl/tags/hugo/</guid>
+      <guid>https://pim73.github.io/uproszczenia/tags/hugo/</guid>
       <description></description>
     </item>
     

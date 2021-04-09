@@ -2,13 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Uproszczenia</title>
-    <link>https://uproszczenia.pl/categories/</link>
+    <link>https://pim73.github.io/uproszczenia/categories/</link>
     <description>Recent content in Categories on Uproszczenia</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pl-PL</language>
-    
-	<atom:link href="https://uproszczenia.pl/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>pl-PL</language><atom:link href="https://pim73.github.io/uproszczenia/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
